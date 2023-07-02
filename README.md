@@ -15,7 +15,8 @@ Você pode visualizar o deploy do projeto através desse link:
 <p align="center">
   <h3 align="center">Prévia do Projeto</h3>
 
-https://github.com/Carecsnay/pingponga/assets/53373326/02497957-da70-4c1b-a2a4-e586ff4ba37b
+
+https://github.com/Carecsnay/Pingpong-main/assets/53373326/b79fcfb6-2207-4c77-ac68-04c6dc516098
 
 
 </p>
